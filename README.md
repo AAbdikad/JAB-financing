@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## JAB Financing
 
 You can use the [editor on GitHub](https://github.com/AAbdikad/JAB-financing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
